@@ -45,4 +45,7 @@ them in sequence
 Note: You may have ancillary objects and method in order to make you're code easer to understand and implement.
 
 
-
+## How to run!
+* Just type the execute command in your terminal.
+* File will run automatically and display the video while running
+* Video will automatically terminate on completion
